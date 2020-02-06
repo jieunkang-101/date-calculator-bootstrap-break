@@ -1,10 +1,9 @@
-import { Array } from './../src/date-calculator.js'
+import { weekday } from './../src/date-calculator.js'
 
 
-describe('Array', () => {
-  let weekday = new Array(7);
+describe('weekday', () => {
   test('should display what day of the week ', () => {
-    
     expect(weekday[0]).toEqual("Sunday");
   });
+  test('should correctly ')
 });

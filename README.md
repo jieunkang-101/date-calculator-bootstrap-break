@@ -19,9 +19,7 @@ _This Webpage will take a user input in the form of a date and calculate the day
 
 | Behavior   |      Input      |  Output |
 |------------|:---------------:|--------:|
-| Accept user year input | 2020| N/A |
-| Accept user month input | February | N/A |
-| Accept user day input | 14th | N/A |
+| Accept user date input | MM/DD/YYYY| Ex. This was a Saturday |
 | On submission of user input, calculate and display day of the week | 14th February 2020 | This is will be a Friday |
 | On submission of non-existent date | 30th February 2020 | Not a date |
 

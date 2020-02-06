@@ -1,6 +1,6 @@
 import { inputDate } from "./main.js";
 export const date = new Date(inputDate);
-// export let n;
+export let checkDay;
 
 export const weekday = new Array(7);
 weekday[0] = "Sunday";
